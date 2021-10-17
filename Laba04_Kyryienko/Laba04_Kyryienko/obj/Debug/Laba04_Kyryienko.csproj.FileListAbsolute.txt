@@ -1,0 +1,19 @@
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba04_Kyryienko\Laba04_Kyryienko\bin\Debug\Laba04_Kyryienko.exe.config
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba04_Kyryienko\Laba04_Kyryienko\bin\Debug\Laba04_Kyryienko.exe
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba04_Kyryienko\Laba04_Kyryienko\bin\Debug\Laba04_Kyryienko.pdb
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba04_Kyryienko\Laba04_Kyryienko\obj\Debug\Laba04_Kyryienko.Form1.resources
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba04_Kyryienko\Laba04_Kyryienko\obj\Debug\Laba04_Kyryienko.Properties.Resources.resources
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba04_Kyryienko\Laba04_Kyryienko\obj\Debug\Laba04_Kyryienko.csproj.GenerateResource.cache
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba04_Kyryienko\Laba04_Kyryienko\obj\Debug\Laba04_Kyryienko.csproj.CoreCompileInputs.cache
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba04_Kyryienko\Laba04_Kyryienko\obj\Debug\Laba04_Kyryienko.exe
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba04_Kyryienko\Laba04_Kyryienko\obj\Debug\Laba04_Kyryienko.pdb
+C:\Users\dariy\Desktop\proga\Laba04_Kyryienko\Laba04_Kyryienko\bin\Debug\Laba04_Kyryienko.exe.config
+C:\Users\dariy\Desktop\proga\Laba04_Kyryienko\Laba04_Kyryienko\bin\Debug\Laba04_Kyryienko.exe
+C:\Users\dariy\Desktop\proga\Laba04_Kyryienko\Laba04_Kyryienko\bin\Debug\Laba04_Kyryienko.pdb
+C:\Users\dariy\Desktop\proga\Laba04_Kyryienko\Laba04_Kyryienko\obj\Debug\Laba04_Kyryienko.Form1.resources
+C:\Users\dariy\Desktop\proga\Laba04_Kyryienko\Laba04_Kyryienko\obj\Debug\Laba04_Kyryienko.Properties.Resources.resources
+C:\Users\dariy\Desktop\proga\Laba04_Kyryienko\Laba04_Kyryienko\obj\Debug\Laba04_Kyryienko.csproj.GenerateResource.cache
+C:\Users\dariy\Desktop\proga\Laba04_Kyryienko\Laba04_Kyryienko\obj\Debug\Laba04_Kyryienko.csproj.CoreCompileInputs.cache
+C:\Users\dariy\Desktop\proga\Laba04_Kyryienko\Laba04_Kyryienko\obj\Debug\Laba04_Kyryienko.exe
+C:\Users\dariy\Desktop\proga\Laba04_Kyryienko\Laba04_Kyryienko\obj\Debug\Laba04_Kyryienko.pdb
+C:\Users\dariy\Desktop\proga\Laba04_Kyryienko\Laba04_Kyryienko\obj\Debug\Laba04_Kyryienko.csproj.AssemblyReference.cache
